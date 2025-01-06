@@ -25,5 +25,5 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/ss249tp/sampleproject"
-Issues = "https://github.com/ss249tp/sampleproject/issues"
+Homepage = "https://github.com/ss249tp/my-mock-pkg"
+Issues = "https://github.com/ss249tp/my-mock-pkg/issues"
