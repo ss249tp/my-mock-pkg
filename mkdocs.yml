@@ -1,0 +1,11 @@
+site_name: my-mock-pkg documentation
+
+nav:
+  - Home: index.md
+
+theme:
+  name: material
+
+markdown_extensions:
+  - toc:
+      permalink: "#"
