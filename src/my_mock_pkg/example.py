@@ -6,6 +6,10 @@ import subprocess
 _updated_packages: set[str] = set()
 
 
+def add_two(number: float) -> float:
+    return number + 2
+
+
 def add_one(number: float) -> float:
     """Increment number by `1`.
 
